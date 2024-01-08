@@ -18,7 +18,7 @@ class drawer extends StatelessWidget {
               SafeArea(
                 child: CircleAvatar(
                   radius: 80.0,
-                  backgroundImage: AssetImage('assets/Amrut.jpeg')),
+                  backgroundImage: AssetImage('assets/Amrut_.jpg')),
               ),
               Text('Amrut Khochikar',
                 style: TextStyle(
