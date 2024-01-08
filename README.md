@@ -1,16 +1,35 @@
-# bmi_calculator
+# BMI Calculator App
 
-A new Flutter project.
+Welcome to the BMI Calculator app, a Flutter-based application designed to help users find there body mass index. This app provides an intuitive interface for select Gender, set height in centimeter, select weight in Kg, age.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Select Gender:** Selecting Gender.
 
-A few resources to get you started if this is your first Flutter project:
+- **Select height:** Select height in Centimeter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Select weight:** Select weight in kilograms
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Select Age:** Select Age.
+
+- **Calculate Button:** Use this button for calculating BMI.
+
+- **Result Page:** Showing Result and Advice for user
+
+## ScreenRecording
+
+
+## Code Structure
+
+The code is organized into multiple Dart files:
+
+- **main.dart:** Contains the main file which navigate to MaterialApp.
+- **seat_list.dart:** Manages the list of seats using LowerSeats and UpperSeats functions.
+- **seat_details.dart:** Provides seat status, booking, and cancellation services.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/seat-finder-app.git
