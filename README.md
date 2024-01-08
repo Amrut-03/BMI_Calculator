@@ -18,18 +18,21 @@ Welcome to the BMI Calculator app, a Flutter-based application designed to help 
 
 ## ScreenRecording
 
+https://github.com/Amrut-03/BMI_Calculator/assets/125724968/840b2a20-12b2-48ff-a6d0-a596dd055488
 
 ## Code Structure
 
 The code is organized into multiple Dart files:
 
 - **main.dart:** Contains the main file which navigate to MaterialApp.
-- **seat_list.dart:** Manages the list of seats using LowerSeats and UpperSeats functions.
-- **seat_details.dart:** Provides seat status, booking, and cancellation services.
+- **input_page.dart:** It Contains the main structure and UI of the app.
+- **result_page.dart:** It will shows the Result and advice for the User.
+- **calculator_brain.dart:** It Contains the calculation of the BMI.
+- **constant.dart:** It Contains Constant values which is used in Project.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/seat-finder-app.git
+   git clone https://github.com/Amrut-03/BMI_Calculator
